@@ -1,0 +1,21 @@
+{
+  "conftest.py::Test_Trains::test_trains": true,
+  "test_trains.py::Test_Trains::test_trains[Firefox]": true,
+  "test_trains.py::Test_Trains::test_trains[Firefox-pune-bangalore-9059455838-sravanivadithya]": true,
+  "test_trains.py::Test_Trains::test_trains[Edge-pune-bangalore-9059455838-sravanivadithya]": true,
+  "test_trains.py::Test_Trains::test_trains[Chrome-pune-bangalore-9059455838-sravanivadithya]": true,
+  "test_trains.py::Test_Trains::test_trains[Firefox-pune-bangalore-8121292235-sravanivadithya]": true,
+  "test_trains.py::Test_Trains::test_trains[Edge-pune-bangalore-8121292235-sravanivadithya]": true,
+  "test_trains.py::Test_Trains::test_trains[Chrome-pune-bangalore-8121292235-sravanivadithya]": true,
+  "test_trains.py::Test_Trains::test_trains[Firefox-pune-bangalore-9492925533-sravanivadithya]": true,
+  "test_trains.py::Test_Trains::test_trains[Edge-pune-bangalore-9492925533-sravanivadithya]": true,
+  "test_trains.py::Test_Trains::test_trains[Chrome-pune-bangalore-9492925533-sravanivadithya]": true,
+  "test_trains.py::Test_Trains::test_trains[Edge-pune-bangalore-9036604180-sravanivadithya]": true,
+  "test_trains.py::Test_Trains::test_trains[Chrome-pune-bangalore-9036604180-sravanivadithya]": true,
+  "test_trains.py::Test_Trains::test_trains[Firefox-pune-bangalore-9381717663-sravanivadithya]": true,
+  "test_trains.py::Test_Trains::test_trains[Edge-pune-bangalore-9381717663-sravanivadithya]": true,
+  "test_trains.py::Test_Trains::test_trains[Chrome-pune-bangalore-9381717663-sravanivadithya]": true,
+  "test_trains.py::Test_Trains::test_trains[Firefox-pune-bangalore-7013199653-sravanivadithya]": true,
+  "test_trains.py::Test_Trains::test_trains[Edge-pune-bangalore-7013199653-sravanivadithya]": true,
+  "test_trains.py::Test_Trains::test_trains[Chrome-pune-bangalore-7013199653-sravanivadithya]": true
+}
